@@ -9,7 +9,6 @@ I'm Nate. I am a student in the [MS in Computer Science Align program](https://w
 - Integrated calls to 3rd-party WikiArt API to supplement data returned via self-written RESTful APIs
 
 #### [Shortest Path for MBTA Network](https://github.com/tolliverdani/CS5800-Shortest-Path-on-the-MBTA)
-**Link directs to classmate Danielle Tolliver's github**
 - Applied Dikjstra's shortest path between two stations on the MBTA
 - Created two versions of the algorith, one that uses a loop and a second that uses a min-heap, to compare runtime differences
 - Retrieved station data from the MBTA API and combined it with bus line data from a CSV file
