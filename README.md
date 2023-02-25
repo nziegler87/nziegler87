@@ -8,6 +8,13 @@ I'm Nate. I am a student in the [MS in Computer Science Align program](https://w
 - Wrote RESTful API enpoints to support basic CRUD operations of data store within MongoDB
 - Integrated calls to 3rd-party WikiArt API to supplement data returned via self-written RESTful APIs
 
+#### [Shortest Path for MBTA Network](https://github.com/tolliverdani/CS5800-Shortest-Path-on-the-MBTA)
+**Link directs to classmate Danielle Tolliver's github**
+- Applied Dikjstra's shortest path between two stations on the MBTA
+- Created two versions of the algorith, one that uses a loop and a second that uses a min-heap, to compare runtime differences
+- Retrieved station data from the MBTA API and combined it with bus line data from a CSV file
+- Implemented a custom graph structure with adjacency lists to represent the stations and connections within the network
+
 #### [Design and Implementation of Relational Database to Store FAA Birdstrike Data](https://github.com/nziegler87/CS5200-Design-Implement-Relational-Database)
 - Designed and implemented a relational database schema (BCNF) to store FAA birdstrike data that was read from a CSV file
 - Cleaned, transformed, and uploaded the data to an AWS RDS using RStudio
