@@ -17,8 +17,15 @@ I'm Nate. I am a student in the [MS in Computer Science Align program](https://w
 #### [Design and Implementation of Relational Database to Store FAA Birdstrike Data](https://github.com/nziegler87/CS5200-Design-Implement-Relational-Database)
 - Designed and implemented a relational database schema (BCNF) to store FAA birdstrike data that was read from a CSV file
 - Cleaned, transformed, and uploaded the data to an AWS RDS using RStudio
+- Documented the relational schema with a UML diagram
 
 #### [Design and Realize an Relational Database and Star Schema](https://github.com/nziegler87/CS5200-Realize-Relational-Database-and-Star-Schema)
 - Created a relational database schema (BCNF) to store medical journal publication information that was loaded from a XML file
 - Designed and implmented a Star Schema to provide quick analysis of data in the relational database
 - Parsed the XML file then cleaned, transformed, and uploaded the data to an AWS RDS using RStudio
+- Documented the relational and star schemas with UML diagrams
+
+#### [Animation Generator](https://github.com/nziegler87/OOD-Final-Project)
+- Created a Java program to parse animation commands from a .txt file and generate animation in GUI
+- Followed SOLID principles and implemented several design patterns including MVC, Command, and Factory
+- Documented final project with a UML diagram
