@@ -35,4 +35,5 @@ I'm Nate. I am a student in the [MS in Computer Science Align program](https://w
 - Followed SOLID principles and implemented several design patterns including MVC, Command, and Factory
 - Documented final project with a UML diagram
 
-#### [Connect Four]()
+#### [Connect Four](https://github.com/nziegler87/FoundationsOfCompSci)
+- Created an interactive connect four game with either human Vs. human or human Vs. computer gameplay as part of my fist my first major computer science project
